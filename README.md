@@ -21,6 +21,7 @@ I work across the stack — from **React/Next.js frontends** to **Node.js & Spri
 **Databases**
 - MongoDB
 - MySQL
+- PostgreSql
 
 **Other**
 - REST API design
