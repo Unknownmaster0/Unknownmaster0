@@ -42,7 +42,7 @@ A full-stack e-commerce application with payments and order flow.
 - Clean API separation  
 - Production-style folder structure  
 
-**Tech:** React / TypeScript / Node.js / Database
+**Tech:** React / TypeScript / Spring Boot / MySQL
 
 ---
 
@@ -66,7 +66,7 @@ A lightweight system to collect and manage structured user feedback.
 - API-first design  
 - Clear separation of concerns  
 
-**Tech:** TypeScript / Backend APIs
+**Tech:** TypeScript / Next.js
 
 ---
 
